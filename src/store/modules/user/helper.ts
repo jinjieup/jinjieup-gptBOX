@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'https://raw.githubusercontent.com/jinjieup/chatgpt-web/main/src/assets/avatar.jpg',
       name: 'Guest User',
-      description: 'Have any trouble? Ask for the <span onclick="window.open(`https://work.weixin.qq.com/kfid/kfc06290a9cc7fe9e6d`,`_blank`)" style="color: dodgerblue;cursor: pointer;"> assistant</span>',
+      description: '<span onclick="window.open(`https://work.weixin.qq.com/kfid/kfc06290a9cc7fe9e6d`,`_blank`)" style="color: dodgerblue;cursor: pointer;">Have any trouble?</span>',
     },
   }
 }
