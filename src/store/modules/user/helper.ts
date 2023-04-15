@@ -15,7 +15,7 @@ export interface UserState {
 export function defaultSetting(): UserState {
   return {
     userInfo: {
-      avatar: 'https://raw.githubusercontent.com/jinjieup/chatgpt-web/main/src/assets/avatar.jpg',
+      avatar: 'https://raw.githubusercontent.com/jinjieup/jinjieup-gptBOX/main/src/assets/avatar.jpg',
       name: 'Guest User',
       description: '<span onclick="window.open(`https://work.weixin.qq.com/kfid/kfc06290a9cc7fe9e6d`,`_blank`)" style="color: dodgerblue;cursor: pointer;">Have any trouble?</span>',
     },
