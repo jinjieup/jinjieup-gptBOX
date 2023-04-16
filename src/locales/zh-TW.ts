@@ -88,7 +88,7 @@ export default {
     importError: '鍵值不符合',
     importRepeatTitle: '因標題重複跳過：{msg}',
     importRepeatContent: '因內容重複跳過：{msg}',
-    onlineImportWarning: `注意：點擊列表右側“➕”後點擊下載即可下載，若下載失敗，請稍後重試~若仍有問題，請<span onclick="window.open('https://work.weixin.qq.com/kfid/kfc06290a9cc7fe9e6d','_blank')" style="color: dodgerblue;cursor: pointer;">聯繫客服</span>`,
+    onlineImportWarning: '注意：請檢查 JSON 檔案來源！',
     downloadError: '請檢查網路狀態與 JSON 檔案有效性',
   },
 }

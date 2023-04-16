@@ -88,7 +88,7 @@ export default {
     importError: 'Key value mismatch',
     importRepeatTitle: 'Title repeatedly skipped: {msg}',
     importRepeatContent: 'Content is repeatedly skipped: {msg}',
-    onlineImportWarning: `Note: Click "➕" on the right side of the list and click download to download. If the download fails, please try again later~ If you still have problems, please <span onclick="window.open('https://work.weixin.qq.com/kfid/kfc06290a9cc7fe9e6d','_blank')" style="color: dodgerblue;cursor: pointer;">contact customer service</span>`,
+    onlineImportWarning: 'Note: Please check the JSON file source!',
     downloadError: 'Please check the network status and JSON file validity',
   },
 }
