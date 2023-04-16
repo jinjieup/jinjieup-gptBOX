@@ -88,7 +88,7 @@ export default {
     importError: '键值不匹配',
     importRepeatTitle: '标题重复跳过：{msg}',
     importRepeatContent: '内容重复跳过：{msg}',
-    onlineImportWarning: '注意：点击列表右侧“➕”后点击下载即可下载，若下载失败，请稍后重试~若仍有问题，请<span onclick="window.open(`https://work.weixin.qq.com/kfid/kfc06290a9cc7fe9e6d`,`_blank`)" style="color: dodgerblue;cursor: pointer;">联系客服</span>~',
+    onlineImportWarning: `注意：点击列表右侧“➕”后点击下载即可下载，若下载失败，请稍后重试~若仍有问题，请<span onclick="window.open('https://work.weixin.qq.com/kfid/kfc06290a9cc7fe9e6d','_blank')" style="color: dodgerblue;cursor: pointer;">联系客服</span>~`,
     downloadError: '请检查网络状态与 JSON 文件有效性',
   },
 }

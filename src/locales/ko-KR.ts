@@ -88,6 +88,6 @@ export default {
     importError: '키 값 불일치',
     importRepeatTitle: '제목이 반복되어 건너뜀: {msg}',
     importRepeatContent: '내용이 반복되어 건너뜀: {msg}',
-    onlineImportWarning: '참고: 목록 오른쪽➕의 ""를 클릭하고 다운로드를 클릭하여 다운로드하고, 다운로드에 실패하면 나중에 다시 시도하세요~ 그래도 문제가 지속되면 고객센터로 <span onclick="window.open(`https://work.weixin.qq.com/kfid/kfc06290a9cc7fe9e6d`,`_blank`)" style="color: dodgerblue;cursor: pointer;">연락주세요</span>',    
+    onlineImportWarning: `참고: 목록 오른쪽➕의 ""를 클릭하고 다운로드를 클릭하여 다운로드하고, 다운로드에 실패하면 나중에 다시 시도하세요~ 그래도 문제가 지속되면 고객센터로 <span onclick="window.open('https://work.weixin.qq.com/kfid/kfc06290a9cc7fe9e6d','_blank')" style="color: dodgerblue;cursor: pointer;">연락주세요</span>`,    
   },
 }
