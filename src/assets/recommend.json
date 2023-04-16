@@ -2,13 +2,13 @@
   {
     "key": "awesome-chatgpt-prompts-zh",
     "desc": "ChatGPT 中文调教指南",
-    "downloadUrl": "./prompts-zh.json",
+    "downloadUrl": "https://oss.v2rayse.com/custom/data/prompts-zh.json",
     "url": "https://gitcode.net/dxfjdvsijdfhiv/awesome-chatgpt-prompts-zh"
   },
   {
     "key": "awesome-chatgpt-prompts-zh-TW",
     "desc": "ChatGPT 中文調教指南 (透過 OpenAI / OpenCC 協助，從簡體中文轉換為繁體中文的版本)",
-    "downloadUrl": "./prompts-zh-TW.json",
+    "downloadUrl": "https://oss.v2rayse.com/custom/data/prompts-zh-TW.json",
     "url": "https://gitcode.net/dxfjdvsijdfhiv/awesome-chatgpt-prompts-zh"
   }
 ]
